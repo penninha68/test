@@ -49,8 +49,8 @@ increase his salary, by his own efforts. <br/>
 
 Our Bonuses come from many sources, some of them Being:<br/>
 
-  • Attending all Missions from a Campaign (10 euros)<br/>
-  • Playing all operations that took place in a month (20 euros)<br/>
+  • Attending all Missions from a Campaign (20 euros)<br/>
+  • Playing all operations that took place in a month (10 euros)<br/>
   • Being awarded a medal for his actions (10 euros)<br/>
   • Being Promoted (10 euros)<br/>
   • Winning competitions (10 - 30 euros)<br/>
